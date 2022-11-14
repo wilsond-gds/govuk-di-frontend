@@ -1,0 +1,20 @@
+{
+  "name": "gov-uk-di-frontend",
+  "version": "1.0.0",
+  "description": "Adds Digital Identity specific front-end components to the GOV.UK design system",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "keywords": [
+    "gds",
+    "gov.uk",
+    "digital",
+    "identity"
+  ],
+  "author": "DI Front-end Team",
+  "license": "ISC",
+  "devDependencies": {
+    "@babel/preset-env": "^7.20.2"
+  }
+}
